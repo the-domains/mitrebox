@@ -1,0 +1,28 @@
+name: Mitrebox
+favicon: null
+layout_spectrum: 0.20538735669106245
+typography_spectrum: 0.2265117031056434
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.9185396542306989
+  lightness: 0.4225977761670947
+  saturation: 0.28270888002589345
+  rhythmicContrast: 0.8873488532844931
+purpose: []
