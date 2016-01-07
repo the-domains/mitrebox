@@ -4,8 +4,15 @@
         <description><![CDATA[Mitrebox]]></description>
         <link>https://thegrid.ai/mitrebox/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 07 Jan 2016 02:30:55 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Jan 2016 02:35:10 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/mitrebox/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Custom Enclosures]]></title>
+            <description><![CDATA[<article><h1>Custom Enclosures</h1><p>Sometimes control is not enough.  The touchpanel needs to integrate with the aesthetics of the room.  We can create that custom look for you.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ab8e4d1d47ede401f92ace8d2bc76fc551be49ed.png"></article>]]></description>
+            <link>https://thegrid.ai/mitrebox/custom-enclosures/index.html</link>
+            <guid isPermaLink="false">7251635b-844c-4d85-8ce4-56a211896ccf</guid>
+            <pubDate>Thu, 07 Jan 2016 02:34:53 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[DSP Programming]]></title>
             <description><![CDATA[<article><h1>DSP Programming</h1><p>A single DSP processor can replace a rack full of equipment.  But that doesn't mean just anyone can program one properly.  We have the skills that it takes to create the designs you need.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9302311621f9e03751163af40c0db8ef5c6fcfc7.png"></article>]]></description>
