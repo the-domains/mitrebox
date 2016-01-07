@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Mitrebox]]></title>
         <description><![CDATA[Mitrebox]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/mitrebox/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 07 Jan 2016 02:30:35 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 07 Jan 2016 02:30:55 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/mitrebox/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[DSP Programming]]></title>
+            <description><![CDATA[<article><h1>DSP Programming</h1><p>A single DSP processor can replace a rack full of equipment.  But that doesn't mean just anyone can program one properly.  We have the skills that it takes to create the designs you need.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9302311621f9e03751163af40c0db8ef5c6fcfc7.png"></article>]]></description>
+            <link>https://thegrid.ai/mitrebox/dsp-programming/index.html</link>
+            <guid isPermaLink="false">696bd1cf-d621-4bd1-a2b0-b4745f39cd25</guid>
+            <pubDate>Thu, 07 Jan 2016 02:30:28 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Mobile devices]]></title>
             <description><![CDATA[<article><h1>Mobile devices</h1><p>We've done extensive testing with iPhone, iPad, Android.  We know how to make them look good, as well as how to work within a budget.  </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f85dc0086bee9dc19f07fddf385f4bfd52693ad2.png"></article>]]></description>
-            <link>undefinedmobile-devices/index.html</link>
+            <link>https://thegrid.ai/mitrebox/mobile-devices/index.html</link>
             <guid isPermaLink="false">49359386-f768-4283-b651-af73c3aef57b</guid>
             <pubDate>Thu, 07 Jan 2016 02:30:28 GMT</pubDate>
         </item>
