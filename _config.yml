@@ -1,19 +1,4 @@
-name: Mitrebox
-favicon: null
-layout_spectrum: 0.75156
 typography_spectrum: 0.37651
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#17BEBB'
@@ -25,4 +10,20 @@ color:
   lightness: 0.8125
   saturation: 0.5
   rhythmicContrast: 1
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.75156
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: Mitrebox
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: MitreboxAV
 purpose: []
